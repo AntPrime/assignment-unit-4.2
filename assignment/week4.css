@@ -1,0 +1,15 @@
+.info h2 {
+    background-color: blueviolet;
+    color: goldenrod;
+}
+.info {
+    text-align: center;
+}
+.header {
+    background-color: goldenrod;
+    color: blueviolet;
+}
+h3 { 
+    background-color: goldenrod;
+    color: blueviolet;
+}
