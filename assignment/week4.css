@@ -4,6 +4,9 @@
 }
 .info {
     text-align: center;
+    border: 5px solid goldenrod;
+    padding: 10px;
+    border-radius: 10px;
 }
 .header {
     background-color: goldenrod;
